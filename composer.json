@@ -1,0 +1,9 @@
+{
+    "name": "sample/core-php",
+    "description": "A sample core PHP application for testing CI/CD",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
